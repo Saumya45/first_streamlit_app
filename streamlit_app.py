@@ -14,4 +14,4 @@ streamlit.multiselect("pick some fruits :",list (my_fruit_list.index),['Avocado'
 
 streamlit.header("Fruityvice Fruit Advice!")
 streamlit.header("Fruityvice Fruit Advice!")
- import snowflake.connector.
+ import snowflake.connector
